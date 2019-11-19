@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="1200"
+   viewBox="0 0 1600 1200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="00_03a_intro.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3578">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect3580"
+         width="1600"
+         height="1200"
+         x="0"
+         y="-147.63783" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3684">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3686" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3688" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="13.2"
+         result="blur"
+         id="feGaussianBlur3690" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset3692" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3694" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3385">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3387" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3389" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.63158"
+         result="blur"
+         id="feGaussianBlur3391" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset3393" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3395" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3435">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect3437"
+         width="1600"
+         height="451.38873"
+         x="0"
+         y="27.944252" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3435-6">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect3437-7"
+         width="1600"
+         height="451.38873"
+         x="0"
+         y="27.944252" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3534">
+      <rect
+         y="-35.07431"
+         x="-0.00012402344"
+         height="658.03094"
+         width="1598.5"
+         id="rect3536"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3394">
+      <rect
+         y="-35.07431"
+         x="52.75972"
+         height="874.03986"
+         width="1547.2402"
+         id="rect3396"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3451">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect3453"
+         width="1547.2402"
+         height="874.03986"
+         x="1.4999542"
+         y="-58.46299" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.65732861"
+     inkscape:cx="910.93258"
+     inkscape:cy="597.68174"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3386"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1144"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-page="true"
+     borderlayer="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,147.63784)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:94.02410889px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3385)"
+       x="-2.1435695"
+       y="-49.026691"
+       id="text3582"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-2.1435695"
+         y="-49.026691"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Century SchoolBook URW';-inkscape-font-specification:'Century SchoolBook URW Medium';fill:#ffffff"
+         id="tspan3586"><tspan
+           style="fill:#000000"
+           id="tspan3347"> Situations</tspan></tspan></text>
+    <g
+       id="g3404">
+      <g
+         transform="translate(4.5776367e-5,29.016366)"
+         id="g3447">
+        <g
+           id="g3386">
+          <g
+             id="g3419"
+             transform="translate(0,27.641167)">
+            <rect
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect3439"
+               width="1575.0857"
+               height="370.69995"
+               x="64.4841"
+               y="33.806435"
+               clip-path="url(#clipPath3394)" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="103.96984"
+               y="108.54939"
+               id="text3405"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="103.96984"
+                 y="108.54939"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Century SchoolBook URW';-inkscape-font-specification:'Century SchoolBook URW Medium'"
+                 id="tspan3384">You manage a small group of people doing weather forecasting.</tspan><tspan
+                 id="tspan3403"
+                 sodipodi:role="line"
+                 x="103.96984"
+                 y="158.54939"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Century SchoolBook URW';-inkscape-font-specification:'Century SchoolBook URW Medium'">Although people work together in discussions and meetings, the code modelling</tspan><tspan
+                 id="tspan3399"
+                 sodipodi:role="line"
+                 x="103.96984"
+                 y="208.54939"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Century SchoolBook URW';-inkscape-font-specification:'Century SchoolBook URW Medium'">rain has five different implementations.</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3406"
+               y="358.80029"
+               x="607.255"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Century SchoolBook URW';-inkscape-font-specification:'Century SchoolBook URW Medium'"
+                 y="358.80029"
+                 x="607.255"
+                 sodipodi:role="line"
+                 id="tspan3412">You have a look and cannot understand any of them.</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

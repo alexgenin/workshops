@@ -1,0 +1,12 @@
+# 
+# Convert a numeric  MATLAB datenum (days since 0000-1-1 00:00) to seconds in 
+# the Unix epoch (seconds since 1970-1-1 00:00). Specify a time zone if the 
+# input datenum is anything other than the GMT/UTC time zone. 
+# credit:  <http://lukemiller.org/index.php/2011/02/converting-
+# matlab-and-r-date-and-time-values/>
+matlab2POS = function(x,tz = "UTC") {
+    require(R.matlab)
+    days = x - 719529 
+    secs = days * 86400 
+    return(as.POSIXct(secs,origin = "1970-1-1",tz = tz)) #returns POSIXct object
+}
